@@ -110,7 +110,7 @@
     "librechat-data-provider": "*",
     "mathjs": "^15.1.0",
     "memorystore": "^1.6.7",
-    "mongoose": "^8.12.1",
+    "mongoose": "^8.24.8",
     "node-fetch": "2.7.0",
     "rate-limit-redis": "^4.2.0",
     "tiktoken": "^1.0.15",
